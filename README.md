@@ -1,16 +1,18 @@
-## Hi there 👋
+## About Me
+Hi there! I'm an **Econometrics student** passionate about solving complex problems using data and technology. I combine my academic background in statistics and econometrics with a growing interest in **web development** to create meaningful projects.
 
-<!--
-**yasiindev/yasiindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Academic Interests
+- 📊 **Econometrics**: Regression analysis, time series modeling, and statistical inferences.
+- 🔍 **Data Analysis**: Working with datasets to uncover insights and trends.
+- 📈 **Quantitative Research**: Applying mathematical models to real-world problems.
 
-Here are some ideas to get you started:
+## Web Development Skills
+- 💻 **Frontend**: HTML, CSS, JavaScript, React.
+- 🔧 **Backend**: Node.js, PHP.
+- 💾 **Database Management**: MySQL, MongoDB.
+- 🌐 **Web Scraping**: Extracting and analyzing data from websites using tools like Puppeteer and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+- 📧 Email: yasin@yasindev.cloud
+- 🌐 Website: [Personal Website](https://yasindev.cloud)
+
