@@ -1,5 +1,5 @@
 ## About Me
-Hi there! I'm an **Econometrics student** passionate about solving complex problems using data and technology. I combine my academic background in statistics and econometrics with a growing interest in **web development** to create meaningful projects.
+Hi there! I'm an Econometrics student passionate about solving complex problems using data and technology. I combine my academic background in statistics and econometrics with a growing interest in **web development** to create meaningful projects.
 
 ## Academic Interests
 - 📊 **Econometrics**: Regression analysis, time series modeling, and statistical inferences.
